@@ -1,5 +1,7 @@
 package insertGreatestCommonDivisors;
 
+import _Structs.ListNode;
+
 public class test {
     public static void printAns(ListNode head){
         head = new Solution().insertGreatestCommonDivisors(head);

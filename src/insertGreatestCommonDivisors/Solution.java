@@ -1,5 +1,7 @@
 package insertGreatestCommonDivisors;
 
+import _Structs.ListNode;
+
 public class Solution {
     public static int gcd(int a, int b) {
         int gcd = Math.min(a, b);
