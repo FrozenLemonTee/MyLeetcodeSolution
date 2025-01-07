@@ -1,6 +1,6 @@
 package insertGreatestCommonDivisors;
 
-import _Structs.ListNode;
+import _Util._Structs.ListNode;
 
 public class Solution {
     public static int gcd(int a, int b) {

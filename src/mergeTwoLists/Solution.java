@@ -1,6 +1,6 @@
 package mergeTwoLists;
 
-import _Structs.ListNode;
+import _Util._Structs.ListNode;
 
 /**
  * Definition for singly-linked list.

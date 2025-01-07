@@ -1,6 +1,6 @@
 package rangeSumBST;
 
-import _Structs.TreeNode;
+import _Util._Structs.TreeNode;
 
 public class Solution {
     public int rangeSumBST(TreeNode root, int low, int high) {

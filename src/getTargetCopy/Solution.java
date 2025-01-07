@@ -1,6 +1,6 @@
 package getTargetCopy;
 
-import _Structs.TreeNode;
+import _Util._Structs.TreeNode;
 
 import java.util.ArrayDeque;
 

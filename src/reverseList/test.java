@@ -1,6 +1,6 @@
 package reverseList;
 
-import _Structs.ListNode;
+import _Util._Structs.ListNode;
 
 public class test {
     public static void main(String[] args) {
