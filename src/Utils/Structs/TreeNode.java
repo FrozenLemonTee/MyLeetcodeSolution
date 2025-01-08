@@ -1,4 +1,4 @@
-package _Util._Structs;
+package Utils.Structs;
 
 public class TreeNode {
     public int val;

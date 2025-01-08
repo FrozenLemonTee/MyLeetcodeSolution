@@ -1,6 +1,6 @@
-package _Util._Structs;
+package Utils.Structs;
 
-import _Util._Methods.Methods;
+import Utils.Methods.Methods;
 
 import java.util.List;
 

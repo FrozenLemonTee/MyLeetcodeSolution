@@ -1,4 +1,4 @@
-package _Util._Methods;
+package Utils.Methods;
 
 import java.util.ArrayList;
 import java.util.Arrays;
