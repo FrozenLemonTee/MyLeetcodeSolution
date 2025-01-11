@@ -1,4 +1,4 @@
-package numIdenticalPairs;
+package Topics.Other.numIdenticalPairs;
 
 public class Solution {
     public int numIdenticalPairs(int[] nums) {
